@@ -1,5 +1,12 @@
 {
+  "workspace": {
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group06.git": [
+      "BancroftKineticSystemsClass/KineticSystems2024Group06",
+      "1706892052499"
+    ]
+  },
   "studio-open-web": {},
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "fontsize": 12.0,
     "skinBranch": "0.25.2",
