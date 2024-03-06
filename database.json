@@ -29,6 +29,10 @@
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group06.git:SimpleRobot.xml": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group06.git",
       "SimpleRobot.xml"
+    ],
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group06.git:TestKinematics.groovy": [
+      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group06.git",
+      "TestKinematics.groovy"
     ]
   },
   "BowlerStudioConfigs": {
