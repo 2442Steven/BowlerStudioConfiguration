@@ -37,10 +37,6 @@
     "https://github.com/2442Steven/Motoman.git:AR700.xml": [
       "https://github.com/2442Steven/Motoman.git",
       "AR700.xml"
-    ],
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group06.git:TestKinematics.groovy": [
-      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group06.git",
-      "TestKinematics.groovy"
     ]
   },
   "BowlerStudioConfigs": {
