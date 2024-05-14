@@ -1,9 +1,5 @@
 {
   "workspace": {
-    "": [
-      "Project ",
-      "1715695961938"
-    ],
     "https://github.com/2442Steven/VexVitaminsRobot.git": [
       "https://github.com/2442Steven/VexVitaminsRobot.git",
       "1715191567206"
@@ -75,6 +71,10 @@
     "https://github.com/2442Steven/Motoman.git:AR700.xml": [
       "https://github.com/2442Steven/Motoman.git",
       "AR700.xml"
+    ],
+    "https://github.com/2442Steven/VexVitaminsRobot.git:RCControl.groovy": [
+      "https://github.com/2442Steven/VexVitaminsRobot.git",
+      "RCControl.groovy"
     ]
   },
   "BowlerStudioConfigs": {
